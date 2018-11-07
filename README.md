@@ -61,6 +61,7 @@ This package is available in AUR.
 
 The dependencies can be installed through
 
+    brew install coreutils # for `realpath` in Makefile
     pip3 install -r requirements.txt
 
 Then, use
